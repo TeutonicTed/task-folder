@@ -26,4 +26,4 @@ To accomplish this, I did the following:
 
 ## Screenshot of the Deployed Version
 
-![Screenshot of the web page](./Develop/assets/screenshot.png)
+![Screenshot of the web page](./assets/screenshot.png)
